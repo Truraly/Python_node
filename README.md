@@ -2,3 +2,8 @@
 
 > 这是一个python笔记
 
+# 输出
+
+```Python
+print("Hello Python World")
+```
